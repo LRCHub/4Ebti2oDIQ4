@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ダーリンゲームオーバーラブ(かわいいver.)",
+  "base_artist": "マイキP",
+  "createdAt": "2026-02-13T10:15:08.729804Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ダーリンゲームオーバーラブ(かわいいver.)",
+      "artist": "マイキP",
+      "has_synced": false,
+      "path": "select/pl_01_ダーリンゲームオーバーラブ(かわいいver.)_マイキP.txt"
+    }
+  ]
+}
