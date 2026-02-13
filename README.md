@@ -1,0 +1,35 @@
+# マイキP – ダーリンゲームオーバーラブ(かわいいver.)
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+ダーリンゲームオーバーラブ
+ダーリンゲームオーバーラブ
+貴方だけのための私だからね
+ベイビータイムオーバーラブ
+ベイビータイムオーバーラブ
+私だけのための貴方じゃなくて
+Break out, Runaway! Runaway! Break out, Runaway!
+Runaway! Break out, Runaway! Runaway!
+愛を使った愛の証明
+Break out, Runaway! Runaway! Break out, Runaway!
+Runaway! Break out, Runaway! Runaway!
+愛を使った愛の証明
+I can't hear myself 不安で一杯でもう何も聞こ
+えない I can hear your voice 最低ほんともう君し
+か見えない I can't hear myself... I can hear
+your voice...
+ダーリンゲームオーバーラブ
+ダーリンゲームオーバーラブ
+ダーリンゲームオーバーラブ
+貴方だけのための私だからね
+ベイビータイムオーバーラブ
+ベイビータイムオーバーラブ
+私だけのための貴方じゃなくて
+Break out, Runaway! Runaway! Break out, Runaway!
+Runaway! Break out, Runaway! Runaway!
+愛を使った愛の証明
+Break out, Runaway! Runaway! Break out, Runaway!
+Runaway! Break out, Runaway! Runaway!
+愛を使った愛の証明
+```
